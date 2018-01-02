@@ -891,7 +891,7 @@ def TicTacToe():
 
 #_________________________________________________________________________________________________________________________________________
 
-# HUMANITY DICTIONARY
+# HUMANITY DICTIONARY (Summer 2014)
 Humanity = [{"User-ID":000, "First Name":"Chinmay", "Last Name":"H?", "Nationality":"India", "Post":"Sole Programmer of Current Code"},
  {"User-ID":001, "First Name":"Killar", "Last Name":"Guy", "Nationality":"Vice City", "Post":"Radical Destroyer"},
  {"User-ID":002, "First Name":"Drethes", "Last Name":"Prisoner", "Nationality":"Russia", "Post":"Psychopath; Lock-Picker"},
